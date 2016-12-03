@@ -19,3 +19,8 @@ http://sasj.tumblr.com
 
 --
 
+# Sketch 161008
+
+[Tumblr Post 161008](http://sasj.tumblr.com/post/151528525960/geometric-animations-161008)
+
+![image](sketch_161008/161008.gif "161008")
