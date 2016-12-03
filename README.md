@@ -24,3 +24,11 @@ http://sasj.tumblr.com
 [Tumblr Post 161008](http://sasj.tumblr.com/post/151528525960/geometric-animations-161008)
 
 ![image](sketch_161008/161008_small.gif "161008")
+
+--
+
+# Sketch 161003
+
+[Tumblr Post 161003](http://sasj.tumblr.com/post/151302272445/geometric-animations-161003)
+
+![image](sketch_161003/161003_small.gif "161003")
