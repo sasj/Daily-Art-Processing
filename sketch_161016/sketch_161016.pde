@@ -21,7 +21,7 @@ void draw() {
       float x2 = map(cos(-theta+offSet), 0, 1, 0, 25); // map x position
       float y2 = map(cos(-theta+offSet), 0, 1, 25, 0); // map y position
       float sz2 = map(sin(-theta+offSet), 0, 1, 15, 45); // map size off the ellipse
-      fill(250-(x/2), 150+(x/6), 250-(y/2)); // color with gradient created 
+      fill(250-(x/2), 150+(x/6), 250-(y/2)); // color with gradient created
 
       ellipse(x+x2, y-y2, sz2, sz2);
     }
