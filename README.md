@@ -7,4 +7,4 @@ http://sasj.tumblr.com
 
 [Tumblr Post 161016] (http://sasj.tumblr.com/post/151904585155/geometric-animations-161016)
 
-![](sketch_161016/161016.gif "161016" =250x)
+![image](sketch_161016/161016.gif =250x "161016")
