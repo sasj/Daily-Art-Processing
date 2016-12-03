@@ -4,4 +4,4 @@ http://sasj.tumblr.com
 
 --
 Sketch 161016
-![Alt text](/sketch_161016/161016.gif ?raw=true "161016")
+![Alt text](sketch_161016/161016.gif "161016")
